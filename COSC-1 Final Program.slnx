@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChaseExample/ChaseExample.vcxproj" Id="30565ff1-45fc-4219-bacf-358d5a688704" />
+  <Project Path="CheckersFinal/CheckersFinal.vcxproj" Id="48caf709-b93a-4d9a-9776-36a9d407a46d" />
+  <Project Path="COSC-1 Final Program/COSC-1 Final Program.vcxproj" Id="dbade712-b03a-4ffa-a65b-cc59363a1a9b" />
+</Solution>
