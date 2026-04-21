@@ -255,11 +255,11 @@ int main()
             CloseWindow();
         }
 
-        if (blackPoints == 0)
+        if (blackPoints < 12)
         {
             BeginDrawing();
             DrawRectangle(0, 0, 800, 800, RAYWHITE);
-            DrawText("RED WINS!", 75, 200, 100, RED);
+            DrawText("RED WINS!", 125, 200, 100, RED);
             EndDrawing();
             WaitTime(7.5);
             CloseWindow();
