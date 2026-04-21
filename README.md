@@ -1,5 +1,7 @@
 # COSC-1 Final Program
 
+Uses C++ and Raylib to present a playable Checkers experience. (This is my first C++ class and first time using Raylib)
+
 A Checkers game for a C++ fundamentals class. Currently doesn't have any force jump mechanic or way to scan for forced jumps.
 It has proper movement, king pieces, a game over screen, and gives the player an extra turn after jumping an enemy piece.
 
