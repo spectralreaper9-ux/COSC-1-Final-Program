@@ -24,6 +24,7 @@
     <ProjectGuid>{7eb90500-1090-4666-bd0c-72c6a24ea38e}</ProjectGuid>
     <RootNamespace>AICheckers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Example Checkers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

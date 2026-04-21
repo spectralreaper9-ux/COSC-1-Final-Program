@@ -255,7 +255,7 @@ int main()
             CloseWindow();
         }
 
-        if (blackPoints < 12)
+        if (blackPoints == 0)
         {
             BeginDrawing();
             DrawRectangle(0, 0, 800, 800, RAYWHITE);
