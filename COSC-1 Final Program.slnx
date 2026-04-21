@@ -3,7 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AI Checkers/AI Checkers.vcxproj" Id="7eb90500-1090-4666-bd0c-72c6a24ea38e" />
   <Project Path="ChaseExample/ChaseExample.vcxproj" Id="30565ff1-45fc-4219-bacf-358d5a688704" />
   <Project Path="CheckersGameFinal/CheckersGameFinal.vcxproj" Id="1bb85dc6-1a9f-4cfa-84a8-f5e6ea66a897" />
 </Solution>
