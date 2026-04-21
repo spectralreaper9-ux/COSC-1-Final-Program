@@ -249,7 +249,7 @@ int main()
         {
             BeginDrawing();
             DrawRectangle(0, 0, 800, 800, RAYWHITE);
-            DrawText("RED   WINS!", 75, 200, 100, RED);
+            DrawText("BLACK WINS!", 75, 200, 100, BLACK);
             EndDrawing();
             WaitTime(7.5);
             CloseWindow();
@@ -259,7 +259,7 @@ int main()
         {
             BeginDrawing();
             DrawRectangle(0, 0, 800, 800, RAYWHITE);
-            DrawText("BLACK WINS!", 75, 200, 100, BLACK);
+            DrawText("RED WINS!", 75, 200, 100, RED);
             EndDrawing();
             WaitTime(7.5);
             CloseWindow();
